@@ -302,4 +302,9 @@ footer a {
   text-decoration: underline;
 }
 
+.clearfix{
+  content: ".";
+  clear: both;
+  display: block;
+}
 /* code examples copyright Jonathan Grover 2012 */
