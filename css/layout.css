@@ -22,6 +22,26 @@
   clear: both;
 }
 
-/* Positioning Classes */
+#second-row {
+  display: grid;
+  grid-template-columns: 65% 30%;
+  column-gap: 5%;
+  background-color: rgba(0,0,0,0)
+}
+
+#third-row {
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  column-gap: 3.333%;
+  background-color: rgba(0,0,0,0)
+}
+
+#fourth-row {
+  display: grid;
+  grid-template-columns: 15% 20% 20% 20%;
+  column-gap: 5%;
+  background-color: rgba(0,0,0,0)
+}
+
 
 
