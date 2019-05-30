@@ -17,7 +17,7 @@ img.verif_img {
 
 /********** Global **********/
 
-body {
+body, .divider {
   background: url(../images/handmadepaper.png);
 }
 
